@@ -137,3 +137,11 @@ def get_stock_data(au):
   except Exception as e:
       print(f"Error al obtener datos: {e}")
       return None
+
+
+
+
+###################################################################################3
+Hacer las solicitudes
+
+get_stock_data('GFI')
